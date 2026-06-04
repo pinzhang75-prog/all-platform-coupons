@@ -1,0 +1,62 @@
+{
+  "category": "电影票",
+  "updated": "2026-06-04",
+  "platforms": [
+    {
+      "name": "淘票票买券",
+      "type": "h5",
+      "url": "https://kzurl20.cn/t2pwa3",
+      "tip": "点击链接领取",
+      "description": "0.1买10元代金券"
+    },
+    {
+      "name": "淘票票领红包",
+      "type": "h5",
+      "url": "https://kzurl08.cn/t2pwfG",
+      "tip": "点击链接领取",
+      "description": "淘票票红包领取"
+    },
+    {
+      "name": "电影票活动1",
+      "type": "h5",
+      "url": "https://kurl11.cn/t2pGt1",
+      "tip": "点击链接领取",
+      "description": "电影票优惠活动"
+    },
+    {
+      "name": "电影票活动2",
+      "type": "h5",
+      "url": "https://kzurl10.cn/t2pGEf",
+      "tip": "点击链接领取",
+      "description": "电影票优惠活动"
+    },
+    {
+      "name": "电影票活动3",
+      "type": "h5",
+      "url": "https://kurl04.cn/t2pHGC",
+      "tip": "点击链接领取",
+      "description": "电影票优惠活动"
+    },
+    {
+      "name": "电影票活动4",
+      "type": "h5",
+      "url": "https://kurl05.cn/t2pHT3",
+      "tip": "点击链接领取",
+      "description": "电影票优惠活动"
+    },
+    {
+      "name": "电影票活动5",
+      "type": "h5",
+      "url": "https://kzurl01.cn/t2pHaR",
+      "tip": "点击链接领取",
+      "description": "电影票优惠活动"
+    },
+    {
+      "name": "电影票特惠专区",
+      "type": "miniprogram",
+      "url": "mp://ClTGRtUwcwRZD4u",
+      "tip": "复制链接到微信打开",
+      "description": "特惠电影票专享"
+    }
+  ]
+}
