@@ -1,0 +1,142 @@
+﻿{
+    "waimai":  {
+                   "platforms":  [
+                                     {
+                                         "tip":  "点击链接领取",
+                                         "url":  "https://kurl06.cn/t2vVwf",
+                                         "name":  "美团外卖节",
+                                         "description":  "美团外卖节惊喜红包",
+                                         "type":  "h5"
+                                     },
+                                     {
+                                         "tip":  "点击链接领取",
+                                         "url":  "https://u.jd.com/ROGUOUD",
+                                         "name":  "京东外卖惊喜红包",
+                                         "description":  "京东外卖惊喜红包",
+                                         "type":  "h5"
+                                     },
+                                     {
+                                         "tip":  "点击链接领取",
+                                         "url":  "https://kzurl10.cn/t2vUVQ",
+                                         "name":  "淘宝闪购",
+                                         "description":  "领最高18元大额红包",
+                                         "type":  "h5"
+                                     },
+                                     {
+                                         "tip":  "点击链接领取",
+                                         "url":  "https://kzurl12.cn/t2plFB",
+                                         "name":  "饿了么大咖",
+                                         "description":  "大咖美式外卖不止2折",
+                                         "type":  "h5"
+                                     }
+                                 ],
+                   "category":  "外卖",
+                   "updated":  "2026-06-04"
+               },
+    "dianying":  {
+                     "platforms":  [
+                                       {
+                                           "tip":  "点击链接领取",
+                                           "url":  "https://kzurl20.cn/t2pwa3",
+                                           "name":  "淘票票买券",
+                                           "description":  "0.1买10元代金券",
+                                           "type":  "h5"
+                                       },
+                                       {
+                                           "tip":  "点击链接领取",
+                                           "url":  "https://kzurl08.cn/t2pwfG",
+                                           "name":  "淘票票领红包",
+                                           "description":  "淘票票红包领取",
+                                           "type":  "h5"
+                                       }
+                                   ],
+                     "category":  "电影票",
+                     "updated":  "2026-06-04"
+                 },
+    "jiudian":  {
+                    "platforms":  [
+                                      {
+                                          "tip":  "点击链接领取",
+                                          "url":  "https://kurl05.cn/t2YszM",
+                                          "name":  "美团民宿",
+                                          "description":  "民宿暑期大促销",
+                                          "type":  "h5"
+                                      },
+                                      {
+                                          "tip":  "点击链接领取",
+                                          "url":  "https://kzurl12.cn/t2YeAi",
+                                          "name":  "飞猪酒店闪购",
+                                          "description":  "全网低价5折起",
+                                          "type":  "h5"
+                                      }
+                                  ],
+                    "category":  "酒店旅游",
+                    "updated":  "2026-06-04"
+                },
+    "kuaidi":  {
+                   "platforms":  [
+                                     {
+                                         "tip":  "复制链接到微信打开",
+                                         "url":  "mp://JFtoK5WIVIChZVa",
+                                         "name":  "顺丰大件",
+                                         "description":  "大件优惠券85折/95折/20元券",
+                                         "type":  "miniprogram"
+                                     },
+                                     {
+                                         "tip":  "点击链接领取",
+                                         "url":  "https://u.jd.com/RG6ZY75",
+                                         "name":  "京东快递券",
+                                         "description":  "必领6折7折7.5折",
+                                         "type":  "h5"
+                                     }
+                                 ],
+                   "category":  "快递",
+                   "updated":  "2026-06-04"
+               },
+    "chuxing":  {
+                    "platforms":  [
+                                      {
+                                          "tip":  "点击链接领取",
+                                          "url":  "https://kurl08.cn/t2QV7a",
+                                          "name":  "花小猪新客",
+                                          "description":  "首单立减8元",
+                                          "type":  "h5"
+                                      },
+                                      {
+                                          "tip":  "点击链接领取",
+                                          "url":  "https://kzurl10.cn/t2QfHN",
+                                          "name":  "滴滴网约车",
+                                          "description":  "最高80元全员可享",
+                                          "type":  "h5"
+                                      }
+                                  ],
+                    "category":  "出行",
+                    "updated":  "2026-06-04"
+                },
+    "wanggou":  {
+                    "platforms":  [
+                                      {
+                                          "tip":  "点击链接领取",
+                                          "url":  "https://kzurl10.cn/t2vUVQ",
+                                          "name":  "淘宝闪购",
+                                          "description":  "领最高18元大额红包",
+                                          "type":  "h5"
+                                      }
+                                  ],
+                    "category":  "网购查券",
+                    "updated":  "2026-06-04"
+                },
+    "huafei":  {
+                   "platforms":  [
+                                     {
+                                         "tip":  "点击链接领取",
+                                         "url":  "https://kzurl19.cn/t3yDU8",
+                                         "name":  "生活权益充值",
+                                         "description":  "影视会员、生活服务、读书学习等生活权益全覆盖充值3折起",
+                                         "type":  "h5"
+                                     }
+                                 ],
+                   "category":  "话费会员",
+                   "updated":  "2026-06-04"
+               }
+}
