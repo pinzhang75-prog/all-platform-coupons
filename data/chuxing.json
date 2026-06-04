@@ -1,0 +1,139 @@
+{
+  "category": "出行",
+  "updated": "2026-06-04",
+  "platforms": [
+    {
+      "name": "花小猪新客",
+      "type": "h5",
+      "url": "https://kurl08.cn/t2QV7a",
+      "tip": "点击链接领取",
+      "description": "首单立减8元"
+    },
+    {
+      "name": "花小猪券包",
+      "type": "h5",
+      "url": "https://kurl08.cn/t2QVZT",
+      "tip": "点击链接领取",
+      "description": "128元券包"
+    },
+    {
+      "name": "滴滴网约车",
+      "type": "h5",
+      "url": "https://kzurl10.cn/t2QfHN",
+      "tip": "点击链接领取",
+      "description": "最高80元全员可享"
+    },
+    {
+      "name": "滴滴顺风车",
+      "type": "h5",
+      "url": "https://kzurl18.cn/t2QfME",
+      "tip": "点击链接领取",
+      "description": "最高100元全员可享"
+    },
+    {
+      "name": "滴滴新客",
+      "type": "h5",
+      "url": "https://kzurl20.cn/t2QvGa",
+      "tip": "点击链接领取",
+      "description": "专享大额券包"
+    },
+    {
+      "name": "滴滴网约车新客",
+      "type": "h5",
+      "url": "https://kzurl07.cn/t2QvSI",
+      "tip": "点击链接领取",
+      "description": "专享大额券包"
+    },
+    {
+      "name": "滴滴代驾",
+      "type": "h5",
+      "url": "https://kzurl03.cn/t2Qviy",
+      "tip": "点击链接领取",
+      "description": "最高20元全员可享"
+    },
+    {
+      "name": "滴滴年检",
+      "type": "h5",
+      "url": "https://kurl06.cn/t2Y0g0",
+      "tip": "点击链接领取",
+      "description": "线上优惠年检"
+    },
+    {
+      "name": "T3出行",
+      "type": "h5",
+      "url": "https://kzurl03.cn/t2QvW3",
+      "tip": "点击链接领取",
+      "description": "每天领取百元超值礼包"
+    },
+    {
+      "name": "高德顺风车",
+      "type": "h5",
+      "url": "http://lllp4.cn/t2QQg0",
+      "tip": "点击链接领取",
+      "description": "领大额券"
+    },
+    {
+      "name": "哈罗顺风车",
+      "type": "h5",
+      "url": "https://kzurl09.cn/t2QKOR",
+      "tip": "点击链接领取",
+      "description": "新客户领大额券"
+    },
+    {
+      "name": "同程打车顺风车",
+      "type": "h5",
+      "url": "https://kzurl09.cn/t2QKrB",
+      "tip": "点击链接领取",
+      "description": "打车顺风车优惠"
+    },
+    {
+      "name": "同程机票",
+      "type": "h5",
+      "url": "https://kurl06.cn/t2Qb2m",
+      "tip": "点击链接领取",
+      "description": "特价机票1折起"
+    },
+    {
+      "name": "携程综合",
+      "type": "h5",
+      "url": "https://kzurl15.cn/t2QWET",
+      "tip": "点击链接领取",
+      "description": "酒店机票火车票汽车票门票用车租车"
+    },
+    {
+      "name": "美团机票火车票",
+      "type": "h5",
+      "url": "http://dpurl.cn/D27flnJz",
+      "tip": "点击链接领取",
+      "description": "最高领100元福利"
+    },
+    {
+      "name": "美团百元特价票",
+      "type": "h5",
+      "url": "http://dpurl.cn/Q403hKgz",
+      "tip": "点击链接领取",
+      "description": "百元特价票"
+    },
+    {
+      "name": "飞猪综合",
+      "type": "miniprogram",
+      "url": "mp://9IHlRdAZeNAWe2c",
+      "tip": "复制链接到微信打开",
+      "description": "酒店机票火车票"
+    },
+    {
+      "name": "飞猪机票特价",
+      "type": "h5",
+      "url": "https://a.feizhu.com/44n1xJ",
+      "tip": "点击链接领取",
+      "description": "机票特价专场"
+    },
+    {
+      "name": "飞猪签证",
+      "type": "h5",
+      "url": "https://a.feizhu.com/2gCI1w",
+      "tip": "点击链接领取",
+      "description": "办签证立减30元"
+    }
+  ]
+}
