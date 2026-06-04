@@ -1,0 +1,118 @@
+{
+  "category": "外卖",
+  "updated": "2026-06-04",
+  "platforms": [
+    {
+      "name": "美团外卖节",
+      "type": "h5",
+      "url": "https://kurl06.cn/t2vVwf",
+      "tip": "点击链接领取",
+      "description": "美团外卖节惊喜红包"
+    },
+    {
+      "name": "美团外卖城市专享",
+      "type": "h5",
+      "url": "https://kzurl10.cn/t2vvdO",
+      "tip": "点击链接领取",
+      "description": "成都、天津、杭州、深圳专享40-20&30-15"
+    },
+    {
+      "name": "美团神券包",
+      "type": "h5",
+      "url": "https://kzurl11.cn/t2vCDz",
+      "tip": "点击链接领取",
+      "description": "9.9元购360元年卡"
+    },
+    {
+      "name": "美团大额红包",
+      "type": "h5",
+      "url": "https://kurl11.cn/t2vPAC",
+      "tip": "点击链接领取",
+      "description": "免费领取30元外卖券包"
+    },
+    {
+      "name": "美团神抢手",
+      "type": "h5",
+      "url": "https://kzurl18.cn/t2vEOc",
+      "tip": "点击链接领取",
+      "description": "神抢手餐饮3折起"
+    },
+    {
+      "name": "美团霸王餐",
+      "type": "miniprogram",
+      "url": "mp://2I1wUkPvoMlek6a",
+      "tip": "复制链接到微信打开",
+      "description": "最低0元吃外卖"
+    },
+    {
+      "name": "京东外卖惊喜红包",
+      "type": "h5",
+      "url": "https://u.jd.com/ROGUOUD",
+      "tip": "点击链接领取",
+      "description": "京东外卖惊喜红包"
+    },
+    {
+      "name": "京东外卖新客",
+      "type": "h5",
+      "url": "https://u.jd.com/RaGhFom",
+      "tip": "点击链接领取",
+      "description": "新客专享活动"
+    },
+    {
+      "name": "京东外卖月卡",
+      "type": "h5",
+      "url": "https://u.jd.com/RGGxTRK",
+      "tip": "点击链接领取",
+      "description": "超级月卡可叠加券30张"
+    },
+    {
+      "name": "京东外卖自提券",
+      "type": "h5",
+      "url": "https://u.jd.com/RaG7TAE",
+      "tip": "点击链接领取",
+      "description": "领1元外卖自提券"
+    },
+    {
+      "name": "京东外卖爆品",
+      "type": "h5",
+      "url": "https://u.jd.com/R1GRuRR",
+      "tip": "点击链接领取",
+      "description": "爆品双份低至4.9元"
+    },
+    {
+      "name": "淘宝闪购",
+      "type": "h5",
+      "url": "https://kzurl10.cn/t2vUVQ",
+      "tip": "点击链接领取",
+      "description": "领最高18元大额红包"
+    },
+    {
+      "name": "淘宝闪购叠加",
+      "type": "h5",
+      "url": "https://kzurl09.cn/t2pl0o",
+      "tip": "点击链接领取",
+      "description": "最高20元可叠加"
+    },
+    {
+      "name": "饿了么大咖",
+      "type": "h5",
+      "url": "https://kzurl12.cn/t2plFB",
+      "tip": "点击链接领取",
+      "description": "大咖美式外卖不止2折"
+    },
+    {
+      "name": "大牌汉堡",
+      "type": "command",
+      "url": "88 HU7405 1:/✔yQZa5EyGoow←",
+      "tip": "复制口令到微信打开",
+      "description": "大牌汉堡不止2折"
+    },
+    {
+      "name": "大牌比萨",
+      "type": "command",
+      "url": "18 HU7405 666:/₴Qc8e5EBbzkQ£←",
+      "tip": "复制口令到微信打开",
+      "description": "大牌比萨不止2折"
+    }
+  ]
+}
