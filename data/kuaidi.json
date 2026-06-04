@@ -1,0 +1,125 @@
+{
+  "category": "快递",
+  "updated": "2026-06-04",
+  "platforms": [
+    {
+      "name": "顺丰大件",
+      "type": "miniprogram",
+      "url": "mp://JFtoK5WIVIChZVa",
+      "tip": "复制链接到微信打开",
+      "description": "大件优惠券85折/95折/20元券"
+    },
+    {
+      "name": "顺丰学生",
+      "type": "miniprogram",
+      "url": "mp://qQODHpNTWgeltnq",
+      "tip": "复制链接到微信打开",
+      "description": "学生认证最高减12元"
+    },
+    {
+      "name": "顺丰快递员",
+      "type": "miniprogram",
+      "url": "mp://NynYNAqM6pDimGb",
+      "tip": "复制链接到微信打开",
+      "description": "加企业微信领5元券"
+    },
+    {
+      "name": "顺丰同城券包",
+      "type": "miniprogram",
+      "url": "mp://FcRS4MNsoJvZi2B",
+      "tip": "复制链接到微信打开",
+      "description": "0.9元购10-5券包"
+    },
+    {
+      "name": "顺丰同城3折",
+      "type": "miniprogram",
+      "url": "mp://gihjZsOX9eB341a",
+      "tip": "复制链接到微信打开",
+      "description": "加企业群领3折券"
+    },
+    {
+      "name": "丰巢寄件",
+      "type": "h5",
+      "url": "http://lllp4.cn/t2Q7YM",
+      "tip": "点击链接领取",
+      "description": "寄件1元起"
+    },
+    {
+      "name": "丰巢新客",
+      "type": "h5",
+      "url": "http://lllp4.cn/t2QX0j",
+      "tip": "点击链接领取",
+      "description": "新客户可领9元寄件券"
+    },
+    {
+      "name": "京东快递券",
+      "type": "h5",
+      "url": "https://u.jd.com/RG6ZY75",
+      "tip": "点击链接领取",
+      "description": "必领6折7折7.5折"
+    },
+    {
+      "name": "京东快递群",
+      "type": "miniprogram",
+      "url": "mp://q5vK1lzdKqBys7D",
+      "tip": "复制链接到微信打开",
+      "description": "扫码进京东快递群必领"
+    },
+    {
+      "name": "京东快递新客",
+      "type": "h5",
+      "url": "https://u.jd.com/Ra6vGm5",
+      "tip": "点击链接领取",
+      "description": "新用户1分钱寄快递"
+    },
+    {
+      "name": "京东秒送达达",
+      "type": "miniprogram",
+      "url": "mp://wb8PKh6P4mIptjy",
+      "tip": "复制链接到微信打开",
+      "description": "同城新用户8折5元券"
+    },
+    {
+      "name": "京东秒送券包",
+      "type": "miniprogram",
+      "url": "mp://HUovn1fXfbVA3hD",
+      "tip": "复制链接到微信打开",
+      "description": "加企微领300元券包"
+    },
+    {
+      "name": "京东快递学生",
+      "type": "h5",
+      "url": "https://u.jd.com/Rg6JDgq",
+      "tip": "点击链接领取",
+      "description": "学生认证每日2次5折"
+    },
+    {
+      "name": "货拉拉新客",
+      "type": "h5",
+      "url": "http://lllp4.cn/t2QnTa",
+      "tip": "点击链接领取",
+      "description": "新客户必领200元券包"
+    },
+    {
+      "name": "货拉拉8折",
+      "type": "h5",
+      "url": "http://lllp4.cn/t2Qy33",
+      "tip": "点击链接领取",
+      "description": "8折优惠券"
+    },
+    {
+      "name": "滴滴送货",
+      "type": "h5",
+      "url": "http://lllp4.cn/t2QIpW",
+      "tip": "点击链接领取",
+      "description": "领大额券在下单"
+    },
+    {
+      "name": "高德秒送",
+      "type": "h5",
+      "url": "http://lllp4.cn/t2QiQr",
+      "tip": "点击链接领取",
+      "description": "同城领大额券"
+    }
+  ]
+}
