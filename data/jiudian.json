@@ -1,0 +1,139 @@
+{
+  "category": "酒店旅游",
+  "updated": "2026-06-04",
+  "platforms": [
+    {
+      "name": "美团民宿",
+      "type": "h5",
+      "url": "https://kurl05.cn/t2YszM",
+      "tip": "点击链接领取",
+      "description": "民宿暑期大促销"
+    },
+    {
+      "name": "美团酒店华住",
+      "type": "h5",
+      "url": "https://kzurl01.cn/t2YxAS",
+      "tip": "点击链接领取",
+      "description": "119元起全国酒店"
+    },
+    {
+      "name": "美团境外酒店",
+      "type": "h5",
+      "url": "https://kzurl16.cn/t2Ye3C",
+      "tip": "点击链接领取",
+      "description": "领最高300元5折券"
+    },
+    {
+      "name": "美团游乐园门票",
+      "type": "h5",
+      "url": "http://dpurl.cn/scjGq9kz",
+      "tip": "点击链接领取",
+      "description": "低至4折"
+    },
+    {
+      "name": "美团景点门票",
+      "type": "h5",
+      "url": "http://dpurl.cn/prYsS4xz",
+      "tip": "点击链接领取",
+      "description": "提前订小团游88折"
+    },
+    {
+      "name": "飞猪酒店闪购",
+      "type": "h5",
+      "url": "https://kzurl12.cn/t2YeAi",
+      "tip": "点击链接领取",
+      "description": "全网低价5折起"
+    },
+    {
+      "name": "飞猪百元好房",
+      "type": "h5",
+      "url": "https://kzurl09.cn/t2YevG",
+      "tip": "点击链接领取",
+      "description": "领200元酒店惊喜红包"
+    },
+    {
+      "name": "飞猪专属权益",
+      "type": "h5",
+      "url": "https://kzurl09.cn/t2YDSk",
+      "tip": "点击链接领取",
+      "description": "领267元券包"
+    },
+    {
+      "name": "飞猪星级酒店",
+      "type": "h5",
+      "url": "https://kzurl16.cn/t2YDMp",
+      "tip": "点击链接领取",
+      "description": "下单立减最高300元"
+    },
+    {
+      "name": "飞猪文旅补贴",
+      "type": "h5",
+      "url": "https://kurl06.cn/t2YD54",
+      "tip": "点击链接领取",
+      "description": "领政府文旅补贴最高立减600元"
+    },
+    {
+      "name": "飞猪百亿补贴",
+      "type": "h5",
+      "url": "https://kzurl03.cn/t2YceS",
+      "tip": "点击链接领取",
+      "description": "特惠百亿补贴预订立减"
+    },
+    {
+      "name": "飞猪民宿",
+      "type": "h5",
+      "url": "https://kzurl11.cn/t2Yckv",
+      "tip": "点击链接领取",
+      "description": "底价抢先订低至5折起"
+    },
+    {
+      "name": "同程酒店天天特惠",
+      "type": "h5",
+      "url": "https://kzurl10.cn/t2YcfH",
+      "tip": "点击链接领取",
+      "description": "天天特惠最高立减100元"
+    },
+    {
+      "name": "同程钟点房",
+      "type": "h5",
+      "url": "https://kzurl11.cn/t2YL6f",
+      "tip": "点击链接领取",
+      "description": "钟点房特惠66元起"
+    },
+    {
+      "name": "同程境外酒店",
+      "type": "h5",
+      "url": "https://kzurl09.cn/t2YXxH",
+      "tip": "点击链接领取",
+      "description": "境外酒店专享福利领888元补贴"
+    },
+    {
+      "name": "同程全球酒店",
+      "type": "h5",
+      "url": "https://kzurl17.cn/t2YXjW",
+      "tip": "点击链接领取",
+      "description": "全球酒店100元起"
+    },
+    {
+      "name": "同程酒店5折",
+      "type": "h5",
+      "url": "https://kurl15.cn/t2YXUU",
+      "tip": "点击链接领取",
+      "description": "内部专享优惠超值5折起"
+    },
+    {
+      "name": "同程酒店限时补贴",
+      "type": "h5",
+      "url": "https://kzurl08.cn/t2YgkX",
+      "tip": "点击链接领取",
+      "description": "限时补贴领80元酒店专享红包"
+    },
+    {
+      "name": "同程民宿",
+      "type": "h5",
+      "url": "https://kzurl15.cn/t2YgaC",
+      "tip": "点击链接领取",
+      "description": "今夜甩卖3折起"
+    }
+  ]
+}
