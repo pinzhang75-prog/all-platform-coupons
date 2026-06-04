@@ -1,0 +1,34 @@
+{
+  "category": "网购查券",
+  "updated": "2026-06-04",
+  "platforms": [
+    {
+      "name": "淘宝闪购",
+      "type": "h5",
+      "url": "https://kzurl10.cn/t2vUVQ",
+      "tip": "点击链接领取",
+      "description": "领最高18元大额红包"
+    },
+    {
+      "name": "淘宝闪购叠加",
+      "type": "h5",
+      "url": "https://kzurl09.cn/t2pl0o",
+      "tip": "点击链接领取",
+      "description": "最高20元可叠加"
+    },
+    {
+      "name": "京东外卖",
+      "type": "h5",
+      "url": "https://u.jd.com/ROGUOUD",
+      "tip": "点击链接领取",
+      "description": "京东外卖惊喜红包"
+    },
+    {
+      "name": "京东快递券",
+      "type": "h5",
+      "url": "https://u.jd.com/RG6ZY75",
+      "tip": "点击链接领取",
+      "description": "必领6折7折7.5折"
+    }
+  ]
+}
